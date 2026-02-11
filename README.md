@@ -68,10 +68,3 @@
 - Enhance UI with **real-time streaming responses**  
 
 ---
-  
-
----
-
-
-
-Do you want me to design those branding elements so your README looks like a polished open-source showcase?
