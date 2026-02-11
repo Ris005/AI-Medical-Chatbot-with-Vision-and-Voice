@@ -1,3 +1,4 @@
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/18c0c8a6-6ecc-4dba-874b-e06b3c6a8341" />
 
 #  AI-Medical-Chatbot-with-Vision-and-Voice
 
